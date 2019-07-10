@@ -6,7 +6,7 @@
 #
 # Herod = Drums = Casper
 # Caligula = Bass = Chanteuse Marie
-# The Lady Gaga = Voice = alcopaul
+# The Lady Gaga = Voice = alCoPaUL
 # Nero = Guitar = Sofia
 #
 # [2.12]
