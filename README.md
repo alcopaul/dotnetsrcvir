@@ -4,8 +4,9 @@
 #
 # Members:
 #
+# Herod = Drums = Casper
 # Caligula = Bass = Chanteuse Marie
-# The Lady Gaga = Voice and drums = alcopaul
+# The Lady Gaga = Voice = alcopaul
 # Nero = Guitar = Sofia
 #
 # [2.12]
@@ -14,3 +15,4 @@
 # Digital Headhuntaz [aBrA]
 # The Cutie [ΣGA]
 # HACKERS FOR JESUS CHRIST AND MARYAM AL-MIGDALA [GIMO][As]
+
